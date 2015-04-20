@@ -1,0 +1,8 @@
+﻿1. cài đặt rubi tại http://rubyinstaller.org/
+2. sau khi cài đặt mở "Start Command Prompt with Ruby"
+3. gõ lệnh "gem install sass" để cài đặt sass.(chỉ cần cài 1 lần)
+4. vào thư mục chứ file scss. copy đường dẫn.
+5. vào lại Start command Prompt Witch Ruby . và gõ lệnh cd x . Trong đó x là đường dẫn tới thư mục chứ file scss.
+6. gõ lệnh. sass --watch input:output 
+- trong đó input là tên file scss (vd: 1.scss)
+- output là tên file css muốn tạo (vd: 1.css)
